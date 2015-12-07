@@ -1,0 +1,15 @@
+body    {
+    margin: auto;
+}
+
+ul.navigation {
+    list-style-type: none;
+}
+
+li.navigation {
+    display: inline;
+}
+
+a.navigation    {
+    text-decoration: none;
+}

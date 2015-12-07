@@ -7,18 +7,20 @@
 </head>
 <body>
 <div class="container">
-
+    
     <header>
-    <nav>
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li>Agenda</li>
-            <li>Mijn afspraken</li>
-            <li>Contact</li>
-            <li>Inloggen</li>
-            <li>Registreren</li>
-        </ul>
-    </nav>
+        <div class="navigation">
+            <nav>
+                 <ul>
+                     <li><a href="index.php">Home</a></li>
+                     <li>Agenda</li>
+                     <li>Mijn afspraken</li>
+                     <li>Contact</li>
+                     <li>Inloggen</li>
+                     <li>Registreren</li>
+                </ul>
+            </nav>
+        </div>    
         <div>
             <img src="http://portfoliotheme.org/enigmatic/wp-content/uploads/sites/9/2012/07/placeholder1.jpg"/>
         </div>

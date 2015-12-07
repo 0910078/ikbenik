@@ -7,20 +7,21 @@
 </head>
 <body>
 <div class="container">
-    
+
     <header>
-        <div class="navigation">
-            <nav>
-                 <ul>
-                     <li><a href="index.php">Home</a></li>
-                     <li>Agenda</li>
-                     <li>Mijn afspraken</li>
-                     <li>Contact</li>
-                     <li>Inloggen</li>
-                     <li>Registreren</li>
-                </ul>
-            </nav>
-        </div>    
+        <nav>
+            <ul class="navigation">
+                <li class="navigation"><a href="index.php">Home</a></li>
+                <li class="navigation"><a href=#>Agenda</a></li>
+                <li class="navigation"><a href=#>Mijn afspraken</a></li>
+                <li class="navigation"><a href=#>Contact</a></li>
+                <li class="navigation"><a href=#>Inloggen</a></li>
+                <li class="navigation"><a href=#>Registreren</a></li>
+            </ul>
+        </nav>
+        <div>
+            <img src=""/>
+        </div>
         <div>
             <img src="http://portfoliotheme.org/enigmatic/wp-content/uploads/sites/9/2012/07/placeholder1.jpg"/>
         </div>

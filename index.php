@@ -9,31 +9,34 @@
 <div class="container">
 
     <header>
-        <nav>
+        <nav class="navigation">
             <ul class="navigation">
-                <li class="navigation"><a href="index.php">Home</a></li>
-                <li class="navigation"><a href=#>Agenda</a></li>
-                <li class="navigation"><a href=#>Mijn afspraken</a></li>
-                <li class="navigation"><a href=#>Contact</a></li>
-                <li class="navigation"><a href=#>Inloggen</a></li>
-                <li class="navigation"><a href=#>Registreren</a></li>
+                <li class="navigation"><a class="navigation" href="index.php">Home</a></li>
+                <li class="navigation"><a class="navigation" href=#>Agenda</a></li>
+                <li class="navigation"><a class="navigation" href=#>Mijn afspraken</a></li>
+                <li class="navigation"><a class="navigation" href=#>Contact</a></li>
+                <li class="navigation"><a class="navigation" href=#>Inloggen</a></li>
+                <li class="navigation"><a class="navigation" href=#>Registreren</a></li>
             </ul>
         </nav>
-        <div>
-            <img src=""/>
-        </div>
-        <div>
-            <img src="http://portfoliotheme.org/enigmatic/wp-content/uploads/sites/9/2012/07/placeholder1.jpg"/>
+        <div class ="logo">
+            <img class="logo" src="images/logo-ikbenik-metal-brush1.png"/>
         </div>
     </header>
 
     <main>
-        <h1>Header</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias delectus fugit labore maxime nostrum qui suscipit! Aliquid dicta in inventore necessitatibus, quos rerum vitae? Consectetur modi numquam praesentium sequi veritatis?</p>
+        <div class="welkom">
+            <h1>Welkom bij praktijk ik ben ik!</h1>
+        </div>
+        <article>
+             <h1>Artikel</h1>
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias delectus fugit labore maxime nostrum qui suscipit! Aliquid dicta in inventore necessitatibus, quos rerum vitae? Consectetur modi numquam praesentium sequi veritatis?</p>
+             <a class="article" href="#">Lees meer...</a>
+        </article>
     </main>
 
     <footer>
-        <h5>Header2</h5>
+        <h5>Footer</h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquid, asperiores delectus ea eaque exercitationem harum natus non odio officia quidem quis, voluptas voluptates. A cumque doloribus illo molestiae rerum.</p>
     </footer>
 
